@@ -1,2 +1,5 @@
 # dockerHW
-test commit
+#Docker Homework
+- [x] Part 1 
+- [ ] 
+- [ ] 
